@@ -1,0 +1,3 @@
+rootProject.name = 'EcarxReactNative'
+
+include ':app'
