@@ -61,3 +61,18 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# webStorm
+.idea/
+
+# dependencies
+/node_modules
+
+# Android
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+*.iml
+/capture
